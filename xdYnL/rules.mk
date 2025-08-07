@@ -4,3 +4,5 @@ ORYX_ENABLE = yes
 RGB_MATRIX_CUSTOM_KB = yes
 SPACE_CADET_ENABLE = no
 REPEAT_KEY_ENABLE = yes
+
+SRC += features/sentence_case.c
